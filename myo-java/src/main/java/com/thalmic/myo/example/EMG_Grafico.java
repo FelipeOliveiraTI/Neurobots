@@ -166,7 +166,6 @@ public class EMG_Grafico extends JFrame {
 		t.start();
 		
 		bt_chave_execucao.setVisible(false);
-		
 
 		bt_chave_execucao.addActionListener(new ActionListener() {
 			@SuppressWarnings("deprecation")
